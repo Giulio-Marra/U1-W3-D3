@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url(https://www.checkfront.com/wp-content/uploads/2022/05/Block-Background-Large-White3-1.jpg);
+    background-color: gray;
     
 }
 .princDiv{
@@ -24,7 +24,10 @@ body{
     height: 50px;
     padding: 10px;
 }
-.button{
+button{
     border: none;
-    color: aqua;
+    color: black
+}
+h1{
+    font-size: 2.5em;
 }
